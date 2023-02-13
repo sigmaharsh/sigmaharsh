@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sigmaharsh
-- 👀 I’m interested in coding learning new stuff reading books and gym!
-- 🌱 I’m currently learning java 
-- 💞️ I’m looking to collaborate on  many open source projects.
-- 📫 How to reach me ...
+- 👀 Interested in coding learning new stuff reading books and gym!
+- 🌱 Currently learning java 
+- 💞️ I’m looking to collaborate open source projects.
+- 📫 How to reach me --> hgg030244@gmail.com , My twitter handle: @harshstwt777...
 
 <!---
 sigmaharsh/sigmaharsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
