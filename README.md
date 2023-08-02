@@ -1,4 +1,4 @@
--  I’m hHarsh Gupta and I am looking to collaborate open source projects.
+-  I’m Harsh Gupta and I am looking to collaborate open source projects.
 - 📫 Reach me at --> hgg030244@gmail.com , My twitter handle: @harshstwt777...
 
 <!---
