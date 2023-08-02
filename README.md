@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @sigmaharsh
-- 👀 Interested in coding learning new stuff reading books and gym!
-- 🌱 Currently learning java 
-- 💞️ I’m looking to collaborate open source projects.
+-  I’m hHarsh Gupta and I am looking to collaborate open source projects.
 - 📫 Reach me at --> hgg030244@gmail.com , My twitter handle: @harshstwt777...
 
 <!---
