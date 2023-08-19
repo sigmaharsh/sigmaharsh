@@ -1,5 +1,5 @@
--  I’m Harsh Gupta and I am looking to collaborate open source projects.
-- 📫 Reach me at --> hgg030244@gmail.com , My twitter handle: @harshstwt777...
+ I’m Harsh and i love to collaborate and contribute in open source projects.
+ Reach me at --> hgg030244@gmail.com , My twitter handle: @harshstwt777...
 
 <!---
 sigmaharsh/sigmaharsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
